@@ -1,0 +1,21 @@
+# Packaged zip file
+*.zip
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Test files
+test_*.py
